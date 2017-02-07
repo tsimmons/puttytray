@@ -1,4 +1,4 @@
-\define{versionidindex} \versionid $Id: index.but 9391 2012-01-30 00:29:32Z jacob $
+\define{versionidindex} \versionid $Id$
 
 \IM{Unix version} Unix version of PuTTY tools
 \IM{Unix version} Linux version of PuTTY tools

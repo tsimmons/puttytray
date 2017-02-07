@@ -1,4 +1,4 @@
-\define{versionidconfig} \versionid $Id: config.but 9846 2013-05-28 23:46:44Z jacob $
+\define{versionidconfig} \versionid $Id$
 
 \C{config} Configuring PuTTY
 

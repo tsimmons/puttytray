@@ -1,4 +1,4 @@
-\define{versionidblurb} \versionid $Id: blurb.but 9993 2013-08-05 15:15:17Z jacob $
+\define{versionidblurb} \versionid $Id$
 
 \define{dash} \u2013{-}
 
