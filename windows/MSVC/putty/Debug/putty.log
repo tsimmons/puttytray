@@ -1,0 +1,101 @@
+﻿Build started 10/21/2013 3:14:03 PM.
+     1>Project "C:\Users\tsimmons\Documents\Visual Studio 2010\Projects\PuTTY\puttytray-gitorious\windows\MSVC\putty\putty.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\putty.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\./ /I..\..\..\charset/ /I..\..\..\windows/ /I..\..\..\unix/ /I..\..\..\macosx/ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D SECURITY_WIN32 /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\window.c
+         window.c
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\putty.exe" /INCREMENTAL /NOLOGO comctl32.lib imm32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\putty.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\tsimmons\Documents\Visual Studio 2010\Projects\PuTTY\puttytray-gitorious\windows\MSVC\putty\Debug\putty.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\putty.lib" /MACHINE:X86 .\Debug\putty.res
+         .\Debug\putty.exe.embed.manifest.res
+         .\Debug\be_all_s.obj
+         .\Debug\cmdline.obj
+         .\Debug\conf.obj
+         .\Debug\config.obj
+         .\Debug\cproxy.obj
+         .\Debug\dialog.obj
+         .\Debug\ldisc.obj
+         .\Debug\ldiscucs.obj
+         .\Debug\logging.obj
+         .\Debug\minibidi.obj
+         .\Debug\misc.obj
+         .\Debug\pgssapi.obj
+         .\Debug\pinger.obj
+         .\Debug\portfwd.obj
+         .\Debug\proxy.obj
+         .\Debug\raw.obj
+         .\Debug\rlogin.obj
+         .\Debug\sercfg.obj
+         .\Debug\settings.obj
+         .\Debug\ssh.obj
+         .\Debug\sshaes.obj
+         .\Debug\ssharcf.obj
+         .\Debug\sshblowf.obj
+         .\Debug\sshbn.obj
+         .\Debug\sshcrc.obj
+         .\Debug\sshcrcda.obj
+         .\Debug\sshdes.obj
+         .\Debug\sshdh.obj
+         .\Debug\sshdss.obj
+         .\Debug\sshgssc.obj
+         .\Debug\sshmd5.obj
+         .\Debug\sshpubk.obj
+         .\Debug\sshrand.obj
+         .\Debug\sshrsa.obj
+         .\Debug\sshsh256.obj
+         .\Debug\sshsh512.obj
+         .\Debug\sshsha.obj
+         .\Debug\sshzlib.obj
+         .\Debug\telnet.obj
+         .\Debug\terminal.obj
+         .\Debug\timing.obj
+         .\Debug\tree234.obj
+         .\Debug\version.obj
+         .\Debug\wcwidth.obj
+         .\Debug\wildcard.obj
+         .\Debug\urlhack.obj
+         .\Debug\regexp.obj
+         .\Debug\PickIconDialog.obj
+         .\Debug\sizetip.obj
+         .\Debug\wincfg.obj
+         .\Debug\winctrls.obj
+         .\Debug\windefs.obj
+         .\Debug\windlg.obj
+         .\Debug\window.obj
+         .\Debug\wingss.obj
+         .\Debug\winhandl.obj
+         .\Debug\winhelp.obj
+         .\Debug\winjump.obj
+         .\Debug\winmisc.obj
+         .\Debug\winnet.obj
+         .\Debug\winnoise.obj
+         .\Debug\winpgntc.obj
+         .\Debug\winprint.obj
+         .\Debug\winproxy.obj
+         .\Debug\winser.obj
+         .\Debug\winstore.obj
+         .\Debug\wintime.obj
+         .\Debug\winucs.obj
+         .\Debug\winutils.obj
+         .\Debug\winx11.obj
+         .\Debug\x11fwd.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\putty.exe.embed.manifest" /manifest .\Debug\putty.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         putty.vcxproj -> C:\Users\tsimmons\Documents\Visual Studio 2010\Projects\PuTTY\puttytray-gitorious\windows\MSVC\putty\.\Debug\putty.exe
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\putty.unsuccessfulbuild".
+         Touching ".\Debug\putty.lastbuildstate".
+     1>Done Building Project "C:\Users\tsimmons\Documents\Visual Studio 2010\Projects\PuTTY\puttytray-gitorious\windows\MSVC\putty\putty.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.75
